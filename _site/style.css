@@ -143,6 +143,80 @@ a {
 .mobile-nav a:hover{
   color: orange;
 }
+/* for contact form */
+input{
+  display: block;
+}
+/* Name */
+input[type="text"]{
+  padding: 2% 1%;
+  border: 1px solid grey;
+  text-align: left;
+  min-width: 500px;
+  min-height: 50px;
+  margin-bottom:1rem;
+  font-size: 1rem;
+}
+input[type="email"]{
+  padding: 2% 1%;
+  border: 1px solid grey;
+  text-align: left;
+  min-width: 500px;
+  min-height: 50px;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+.textarea {
+  padding: 2% 1%;
+  border: 1px solid grey;
+  text-align: left;
+  min-width: 500px;
+  min-height: 150px;
+  margin-bottom:1rem;
+  font-size: 1rem;
+}
+.buttonsend {
+  min-width: 100px;
+  font-size: 1rem;
+  color: rgb(60,60,65);
+}
+
+/* FAQ slides */
+.accordion dt a {
+  padding: 0.25rem;
+  margin: 0.25rem 0;
+  display:block;
+  color: rgb(60,60,65);
+  position: relative;
+  text-decoration: none;
+}
+.accordion dd {
+  padding: 1rem;
+  color:rgb(60,60,65);
+  background-color: lightgrey;
+}
+/* Icon */
+.accordion dt a::after {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.4rem;
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  line-height: 1;
+  text-align: center;
+  -webkit-transition: all .35s;
+  -o-transition: all .35s;
+  transition: all .35s;
+}
+.accordion dt a::after {
+  content: "+";
+}
+.open::after {
+  transform: rotateZ(45deg);
+}
+/* End FAQ  */
+
 /* MEDIA Queries */
 @media(max-width: 768px){
 
