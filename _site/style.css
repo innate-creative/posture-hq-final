@@ -1,0 +1,134 @@
+/* CSS RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px solid rgb(240, 240, 240); */
+}
+/* Gridlex Reset */
+[class*=grid-], [class*=grid_], [class~=grid] {
+  margin:0;
+}
+[class*=col-], [class*=col_], [class~=col]{
+  padding:0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* GENERAL HELPER CLASS */
+.tall       {  min-height: 100vh; }
+.med-height { min-height: 50vh;   }
+.short      {  min-height: 30vh;  }
+
+.left      { text-align: left;      }
+.right     {  text-align: right;    }
+.center    {  text-align: center;   }
+
+.padded     { padding: 5%;}
+.padded-1   { padding: 1rem;}
+.no-padding { padding: 0; }
+
+/* backgrounds */
+.light-bg   {background-color: rgb(245, 245, 245);}
+.dark-bg    {background-color: rgb(60, 60, 60);
+color: white;}
+.feat-bg    {background-color: #f4e9e0;}
+.white      {background-color: rgba(245, 245, 245, 0.5);}
+
+.bg-image {
+  padding-bottom: 50%;
+  background-size: cover;
+  background-position: center;
+}
+.button {
+  border: 2px solid rgb(60, 60, 60);
+  color: rgb(60, 60, 60);
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 5%;
+}
+.button:hover {
+  border: 2px solid #2475bb;
+  background-color: #2475bb;
+  color: white;
+}
+
+section{
+  padding:5%;
+}
+
+/* Typeography */
+body {
+  font-family: montserrat;
+  letter-spacing: 2;
+
+}
+ h2 {
+  margin-bottom:1rem;
+  font-weight: normal;
+  font-size: 3rem;
+}
+h3 {
+  margin-bottom:1rem;
+  font-weight: normal;
+  font-size: 3rem;
+}
+p {
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+a {
+  text-decoration: none;
+  color: rgb(60, 60, 60);
+}
+
+.mobile-show {
+  display: none;
+}
+banner {
+  background-image: #;
+  background-position: center;
+  background-size: cover;
+  min-height: 80vh;
+}
+
+/* hamburger menu */
+.line {
+  border: 1px solid black;
+  width: 25px;
+  margin: 5px;
+  display: block;
+  padding: 0;
+  border-radius: 2px;
+}
+.hamburger {
+  display: inline-block;
+  padding: 0.5rem;
+  z-index: 3;
+  position: relative; /* adding this so we can use z-index */
+}
+.mobile-nav a{
+  color:white;
+  padding:1rem;
+  display:block;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+  transition: 1s;
+
+}
+.mobile-nav a:hover{
+  color: orange;
+}
+/* MEDIA Queries */
+@media(max-width: 768px){
+
+
+/* brand colors */
+royal blue: #2475bb;
+white blue: #CEE5F2;
+bright blue: #64BCE4;
+grey: #2C363F;
