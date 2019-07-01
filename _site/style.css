@@ -32,8 +32,8 @@ img {
 .no-padding { padding: 0; }
 
 /* backgrounds */
-.light-bg   {background-color: rgb(245, 245, 245);}
-.dark-bg    {background-color: rgb(60, 60, 60);
+.light-bg   {background-color: #CEE5F2;}
+.dark-bg    {background-color: #2C363F;;
 color: white;}
 .feat-bg    {background-color: #f4e9e0;}
 .white      {background-color: rgba(245, 245, 245, 0.5);}
@@ -71,7 +71,13 @@ color: white;}
   background-color: #2475bb;
   color: white;
 }
-
+.ctabanner {
+  background-image: url('/images/wall.jpg');
+  min-height: 50vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment:fixed;
+}
 /* section{
   padding:5%;
 } */
