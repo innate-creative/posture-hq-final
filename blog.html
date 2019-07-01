@@ -8,10 +8,10 @@ layout: default
   </h3>
 </section>
 <!-- this is the blog content section  -->
-<section class='grid padded ctabanner'>
+<section class='grid padded'>
   {% for post in site.posts %}
   <div class="col-4_sm-12 blog-post">
-  <img src=" {{ post.feat-image }}" class="blogging">
+  <img src=" {{ post.feat-image }}">
     <a href="{{ post.url }}"> <h4>
     {{ post.title }} </h4>
     </a>
