@@ -115,12 +115,10 @@ img {
   padding:5%;
 } */
 
-
 /* Typeography */
 body {
   font-family: montserrat;
   letter-spacing: 2;
-
 }
  h2 {
   margin-bottom:1rem;
@@ -192,7 +190,7 @@ input{
   display: block;
 }
 /* Name */
-input[type="text"]{
+input[type="name"]{
   padding: 2% 1%;
   border: 1px solid grey;
   text-align: left;
@@ -231,13 +229,14 @@ input[type="email"]{
   margin: 0.25rem 0;
   display:block;
   color: rgb(60,60,65);
+  background-color: #CEE5F2;
   position: relative;
   text-decoration: none;
 }
 .accordion dd {
   padding: 1rem;
-  color:rgb(60,60,65);
-  background-color: lightgrey;
+  color: #2C363F;
+  background-color: white;
 }
 /* Icon */
 .accordion dt a::after {
@@ -264,6 +263,9 @@ input[type="email"]{
 /* MEDIA Queries */
 @media(max-width: 768px){
 
+.textarea {
+  max-width: 300px;
+}
 
 /* brand colors */
 royal blue: #2475bb;
