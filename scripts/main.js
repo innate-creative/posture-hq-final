@@ -19,5 +19,4 @@ var allPanels = $('.accordion > dd').hide();
 	});
 // ready for the next thing
 
-
 });
