@@ -2,15 +2,13 @@
 layout: default
 ---
 <!-- this is the opening text section -->
-<section class="bg-light padded grid-center">
+<section class="bg-light padded grid-center ctabanner">
   <h3 class="dark col-10_sm-12-middle center">
    We want to share our health knowledge, tips and trips with our community!
   </h3>
-</section>
 <!-- this is the blog content section  -->
-<section class='grid padded'>
   {% for post in site.posts %}
-  <div class="col-4_sm-12 blog-post">
+  <div class="col-4_sm-12 blog-post padded-1">
   <img src=" {{ post.feat-image }}">
     <a href="{{ post.url }}"> <h4>
     {{ post.title }} </h4>
