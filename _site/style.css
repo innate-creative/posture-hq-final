@@ -100,6 +100,13 @@ img {
   background-position: center;
   background-attachment:fixed;
 }
+.palmbanner {
+  background-image: url('/images/palm2.jpg');
+  min-height: 100%;
+  background-size:cover;
+  background-position: center;
+  background-attachment:fixed;
+}
 .bracket {
   font-size: 5rem;
   font-family: cursive;
