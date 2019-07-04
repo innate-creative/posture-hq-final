@@ -4,6 +4,7 @@ $(".hamburger").click(function(){
   $(".hamburger").toggleClass('active');
    $(".mobile-toggleable").toggleClass("offtheright");
 });
+
 // This is for the FAQ section
 var allPanels = $('.accordion > dd').hide();
 

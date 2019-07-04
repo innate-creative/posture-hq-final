@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<!-- this is the opening section  -->
+<section>
+  <div class="col-12 center padded">
+    <h2> How can we help you? </h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+  </div>
+</section>
+
+<!-- This is the services section -->
+<section class="grid padded ctabanner">
+  {% for conditions in page.services %}
+  <div class="col-4_sm-12 conditions">
+    <img src=" {{ page.feat-image }}" class="blogging">
+    <a href=" {{ page.url }}">
+      <h3> {{ page.title }} </h3>
+      <p> {{ page.excerpt }} </p>
+    <a href=" {{ conditions.url }}" class="button">
+      Need Help?
+      </a>
+    </div>
+    {% endfor %}
+    </section>
