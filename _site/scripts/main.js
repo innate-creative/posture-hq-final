@@ -2,7 +2,8 @@ $ (document).ready(function(){
 //  this is the hamburger
 $(".hamburger").click(function(){
   $(".hamburger").toggleClass('active');
-   $(".mobile-toggleable").toggleClass("offtheright");
+  $(".mobile-nav").fadeToggle();
+   // $(".mobile-toggleable").toggleClass("offtheright");
 });
 
 // This is for the FAQ section
