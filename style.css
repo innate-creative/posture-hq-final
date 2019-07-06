@@ -395,7 +395,7 @@ input[type="email"]{
     font-size: 1.5rem;
 }
 .condition-icons {
-  max-width: 50%;
+  max-width: 30%;
   height: auto;
   color: rgb(60,60,60);
 }
