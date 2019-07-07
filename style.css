@@ -402,7 +402,6 @@ input[type="email"]{
 .condition-icons:hover {
   color: red;
 }
-
 /* End FAQ  */
 
 /* MEDIA Queries */
@@ -413,9 +412,17 @@ input[type="email"]{
 .flex-flipper [class*=grid]:nth-child(2n){
   flex-direction: row;
   }
-body {
+
+.mobile-center {
+  text-align: center;
+}
+.mobile-left {
   text-align: left;
 }
+.mobile-padded {
+  padding-bottom: 1rem;
+}
+
 
 /* brand colors */
 royal blue: #2475bb;
