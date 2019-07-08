@@ -54,6 +54,10 @@ footer a:hover{
 .padded-bottom {padding-bottom: 2%}
 .xtra-padded {padding: 10%;}
 
+.margin-right{margin-right: 1rem;}
+.margin-left{margin-left: 1rem;}
+.margin-bottom{margin-bottom: 1rem;}
+
 /* backgrounds */
 .light-bg   {background-color: lightgrey;}
 .dark-bg    {background-color: #2C363F; color: white;}
@@ -76,6 +80,42 @@ footer a:hover{
   letter-spacing: 2px;
   display: inline-block;
   padding: 1% 2%;
+}
+.navbutton {
+  border: 2px solid #2475bb;
+  color: white;
+  background-color:#2475bb;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 2%;
+  vertical-align: top;
+}
+.navbutton-1 {
+  border: 2px solid #CEE5F2;
+  color: gb(60,60,60);
+  background-color:#CEE5F2;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 2%;
+  vertical-align: top;
+}
+.hamburger-button{
+  background-color: #2475bb;
+}
+.hamburger-button:hover{
+  background-color: white;
+}
+.navbutton:hover {
+  border: 2px solid #2475bb;
+  color: #2475bb;
+  background-color:white;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 2%;
+  vertical-align: top;
 }
 .button-dark {
   border: 2px solid #2475bb;
@@ -188,7 +228,7 @@ position: absolute;
 }
 /* Typeography */
 body {
-  font-family: 'montserrat', 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   letter-spacing: 2;
 }
 html {
@@ -198,19 +238,19 @@ html {
   margin-bottom:1rem;
   font-weight: normal;
   font-size: 2rem;
-  font-family: montserrat;
+  font-family: Roboto;
 }
 h3 {
   margin-bottom:1rem;
   font-weight: normal;
   font-size: 1.8rem;
-  font-family: montserrat;
+  font-family: Roboto;
 }
 h4 {
   margin-bottom:1rem;
   font-weight: normal;
   font-size: 1.3rem;
-  font-family: montserrat;
+  font-family: Roboto;
 }
 p {
   line-height: 1.5;
@@ -281,6 +321,7 @@ a {
   text-decoration: none;
   border-bottom: 1px solid white;
   transition: 0.4s;
+
 }
 .mobile-nav a:hover{
   color: #2475bb;
@@ -308,9 +349,10 @@ input{
 /* Sidebar Styles */
 .sidebar div {
   padding: 5%;
-  border: 2px solid #CEE5F2;
+  /* border: 2px solid #CEE5F2; */
   margin-bottom: 0.5rem;
-  background-color: lightgrey;
+  background-color: rgb(60,60,60);
+  color: white;
 }
 /* Name */
 input[type="name"]{
@@ -416,12 +458,15 @@ input[type="email"]{
 .mobile-center {
   text-align: center;
 }
+.navbutton {
+  display:none;
+}
 .mobile-left {
   text-align: left;
 }
 .mobile-padded {
   padding-bottom: 1rem;
-}
+}}
 
 
 /* brand colors */
