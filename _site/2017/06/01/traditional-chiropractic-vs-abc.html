@@ -5,8 +5,10 @@
   <!-- THIS IS FONT AWESOME -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css" />
 <!-- This is for google font  -->
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600,700&display=swap" rel="stylesheet">
 
-
+<!-- Google Font roberto -->
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700,900&display=swap" rel="stylesheet">
 
 <!-- /WhatsHelp.io widget -->
   <!-- THIS IS GRIDLEX -->
@@ -20,37 +22,41 @@
 <body>
   <!-- THIS IS THE MAIN HEADER SECTION -->
   <header class='grid-middle'>
-  <div class='col-5_sm-6-middle padded-1 '>
-    <a href="/">
-    <img src="/images/logo1.png" class='logo' alt="">
-    </a>
-  </div>
+    <div class="col-4_sm-6 padded-left">
+      <a href="/"> <img src="/images/logo1.png" class='logo padded-1' alt="">
+      </a>
+    </div>
 
   <!-- hamburger menu -->
-  <nav class='col-7_sm-6-middle right'>
-    <a href="" onclick="" class='button middle'> Book online </a>
+  <nav class='col-8_sm-6-middle right padded-right'>
+      <a href="#" class='navbutton'> Book online </a>
+      <a href="tel: 0448631445" class='navbutton margin-left'> (07)5455 4067 </a>
+
     <div class="hamburger">
       <div class="line"></div>
       <div class="line"></div>
       <div class="line"></div>
     </div>
   </nav>
+  <nav class='mobile-nav'>
+    <a href="#" class='hamburger-button padded margin-bottom'> Book online </a>
+    <a href="tel: 0448631445" class='hamburger-button margin-bottom'> (07) 5455 4067 </a>
 
-  <nav class="mobile-nav">
+
     <a href="/"> Home </a>
-    <a href="/about-us"> About Us</a>
-    <a href="/chiropractic"> Chiropractic</a>
-    <a href="/conditions-home"> Conditions</a>
-    <a href="/blog"> Blog</a>
-    <a href="/contact-us"> Contact Us</a>
-    <a href="tel:07 5447 4056"> Call the Office</a>
-    <a href="#"> Book Online</a>
+      <a href="/chiropractic"> About Chiropractic </a>
+      <a href="/about-us"> Meet the Team</a>
+      <a href="/conditions-home"> Conditions</a>
+      <a href="/faq"> FAQ's</a>
+      <a href="/contact-us"> Contact Us</a>
+      <a href="/blog"> Blog</a>
+
   </nav>
 </header>
 
 
   <section class='grid padded ctabanner'>
-  <div class="col-8 blog-post ">
+  <div class="col-8_sm-12 blog-post ">
     <h1>
       Traditional Chiropractic vs ABC
     </h1>
@@ -124,32 +130,37 @@ Over the course of your lifetime, if you have lived a physically active lifestyl
 </section>
 
   <!-- FOOTER SECTION -->
-  <footer class='feat-bg grid padded'>
-    <div class="col-4_sm-12 ">
-      <h3>Posture HQ Chiropractic </h3>
+  <footer class='light-blue-bg grid padded mobile-center'>
+    <div class="col-4_sm-12-bottom">
+      <a href="/">
+      <img src="/images/logo.png" class='logo' alt=""> </a> <br> <br><br>
+      <!-- <p>Change your posture, change your life</p> -->
+      <p>Dr. Elizabeth Borham is a proud board member of:</p>
+      <img src="/images/abca-logo.png" class='abca left mobile-padded' alt="">
       <!-- <img class='logo' src="/images/logo1.png" alt=""> -->
-      <p> Change your posture, change your life </p>
+    </div>
+    <!-- space between -->
+    <div class="col-4_sm-12-bottom center mobile-padded">
       <a href=""> <i class="fab fa-facebook-square"></i> </a>
       <a href="https://www.instagram.com/posture_hq/"><i class="fab fa-instagram"></i></a>
       <a href=""><i class="fab fa-youtube"></i></a>
     </div>
-    <!-- space between -->
-    <div class="col-4">
-    </div>
     <!-- Quick Links  -->
-    <div class="col-4_sm-12">
+    <div class="col-4_sm-12-bottom">
       <h4> QUICK LINKS </h4>
-      <a href="/about-us" class='border-bottom'> About Us</a><br>
-      <a href="/chiropractic" class='border-bottom'> Chiropractic</a><br>
-      <a href="#" class='border-bottom'> Conditions</a><br>
-      <a href="/blog" class='border-bottom'> Blog</a><br>
-      <a href="/contact-us" class='border-bottom'> Contact Us</a><br>
+      <p>
+      <a href="/chiropractic" > Chiropractic</a><br>
+      <a href="/about-us"> Meet the Team</a><br>
+      <a href="/conditions-home"> Conditions</a><br>
+      <a href="/blog"> Blog</a><br>
+      <a href="/faq"> FAQ's</a> <br>
+      <a href="/contact-us"> Contact Us</a></p>
     </div>
   </footer>
 
 <section class='dark-bg no-padding'>
 <div class='copyright center padded-1'>
-  <p> © Posture HQ Chiropractic 2019 | Websites by <a href='https://www.innatecreative.com'style='color: white; border-bottom: 1px solid white;'>Innate Creative </a> </p>
+  <p> © Posture HQ Chiropractic 2019 | Websites by <a href='https://innatecreative.co'style='color: white; border-bottom: 1px solid white;'>Innate Creative </a> </p>
 </div>
 </section>
 
@@ -159,11 +170,12 @@ Over the course of your lifetime, if you have lived a physically active lifestyl
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
     </script>
 <!-- TYPED JQUERY -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js">
+    </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-eEo+kC7ROjsA/3wA+Zf8m6X9H3raPZ7MJ/Rk9rBTKHM=" crossorigin="anonymous"></script>
 
     <!-- THIS IS THE TYPED SCRIPT -->
     
-
     <!-- Connect to main script -->
     <script src='/scripts/main.js'>
     </script>

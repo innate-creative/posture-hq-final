@@ -1,26 +1,64 @@
 ---
 layout: default
 ---
-<!-- this is the opening section  -->
-<section>
-  <div class="col-12 center padded">
-    <h2> How can we help you? </h2>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    </p>
+<!-- This is the services section -->
+<section class='grid center padded ctabanner'>
+<div class="col-12 padded">
+  <h3>Where are here to help</h3>
+  <p>Click on the icons for more info</p>
+</div>
+<div class="grid center">
+  <div class="col-4_md-6_sm-12 service">
+    <a href="headaches" class='button-round center'>
+      <img src="/images/icons2/dizziness.png" alt="" class="condition-icons">
+      <h2 class='service'> Headaches </h2>
+    </a>
   </div>
+  <div class="col-4_md-6_sm-12 service">
+    <a href="back-pain" class='button-round center'>
+      <img src="/images/icons2/back-pain.png" alt="" class="condition-icons">
+      <h2 class='service'> Back Pain + Sciatica </h2>
+    </a>
+  </div>
+  <div class="col-4_md-6_sm-12 service">
+    <a href="neck-pain" class='button-round center'>
+      <img src="/images/icons2/neck-pain.png" alt="" class="condition-icons">
+      <h2 class='service'> Neck Pain</h2>
+    </a>
+  </div>
+<div class="col-4_md-6_sm-12 center service">
+  <a href="shoulder-pain" class='button-round center'>
+  <img src="/images/icons2/shoulder-pain.png" alt="" class="condition-icons">
+  <h2 class='services'> Shoulder Pain </h2>
+   </a>
+</div>
+
+<div class="col-4_md-6_sm-12 center service">
+  <a href="knee-pain" class='button-round center'>
+  <img src="/images/icons2/knee-pain.png" alt="" class="condition-icons">
+  <h2 class='services'> Knee Pain</h2>
+  </a>
+</div>
+
+<div class="col-4_md-6_sm-12 center service">
+  <a href="wellness-prevention" class='button-round center'>
+  <img src="/images/icons2/family.png" alt="" class="condition-icons">
+  <h2 class='services'> Wellness + Prevention</h2>
+  </a>
+</div>
 </section>
 
-<!-- This is the services section -->
-<section class="grid padded ctabanner">
-  {% for conditions in page.services %}
-  <div class="col-4_sm-12 conditions">
-    <img src=" {{ page.feat-image }}" class="blogging">
-    <a href=" {{ page.url }}">
-      <h3> {{ page.title }} </h3>
-      <p> {{ page.excerpt }} </p>
-    <a href=" {{ conditions.url }}" class="button">
-      Need Help?
-      </a>
-    </div>
-    {% endfor %}
-    </section>
+<!-- THIS IS A CTA  -->
+<section class='grid dark-bg';>
+  <!-- empty -->
+  <div class="col-1">
+  </div>
+  <div class="col-10 padded center" >
+    <h3> Feel the benefits of ABC™ Care</h3>
+    <p>Click below to schedule your first appointment with Dr. Liz </p>
+    <a href="#" class='button-dark'> Book Online </a>
+  </div>
+<!-- empty -->
+  <div class="col-1 ">
+  </div>
+</section>
