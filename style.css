@@ -93,7 +93,7 @@ footer a:hover{
 }
 .navbutton-1 {
   border: 2px solid #CEE5F2;
-  color: gb(60,60,60);
+  color: rgb(60,60,60);
   background-color:#CEE5F2;
   text-decoration: none;
   letter-spacing: 2px;
