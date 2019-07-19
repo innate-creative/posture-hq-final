@@ -60,7 +60,9 @@ footer a:hover{
 
 /* backgrounds */
 .light-bg   {background-color: lightgrey;}
-.dark-bg    {background-color: #2C363F; color: white;}
+.dark-bg    {background-color: rgb(60,60,60); color: white;}
+.dark-bg a{color:white;}
+.dark-bg a:hover {color: #2475bb;}
 .feat-bg    {background-color: #2475bb;}
 .white      {background-color: rgba(245, 245, 245,0.5);}
 .light-blue-bg {background-color: #CEE5F2;}
@@ -83,13 +85,14 @@ footer a:hover{
 }
 .navbutton {
   border: 2px solid #2475bb;
-  color: white;
-  background-color:#2475bb;
+  color: #2475bb;
+  background-color: white;
   text-decoration: none;
-  letter-spacing: 2px;
+  letter-spacing: 1.1px;
   display: inline-block;
-  padding: 1% 2%;
+  padding: 1% 1.5%;
   vertical-align: top;
+  font-size: 0.9rem;
 }
 .navbutton-1 {
   border: 2px solid #CEE5F2;
@@ -109,8 +112,8 @@ footer a:hover{
 }
 .navbutton:hover {
   border: 2px solid #2475bb;
-  color: #2475bb;
-  background-color:white;
+  color: white;
+  background-color: #2475bb;
   text-decoration: none;
   letter-spacing: 2px;
   display: inline-block;
@@ -118,6 +121,16 @@ footer a:hover{
   vertical-align: top;
 }
 .button-dark {
+  border: 2px solid #2475bb;
+  color: white;
+  background-color:#2475bb;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 5%;
+  box-shadow: 4px 4px 5px 0.2px rgba(128,125,128,10)
+}
+.button {
   border: 2px solid #2475bb;
   color: white;
   background-color:#2475bb;
@@ -163,7 +176,7 @@ footer a:hover{
   background-attachment:fixed;
 }
 .palmbanner {
-  background-image: url('/images/palm2.jpg');
+  background-image: url('/images/palm3.jpg');
   min-height: 100%;
   background-size:cover;
   background-position: center;
@@ -184,7 +197,6 @@ footer a:hover{
 .overlay {
   background-color: rgba(60,60,60,0.5);
   z-index: 1;
-
 }
 .gif {
   min-height: 90vh;
@@ -200,8 +212,8 @@ footer a:hover{
 .overlay{
 width: 100%;
 height: 100%;
-background-color: black;
-opacity: 0.7;
+background-color: rgb(60,60,60);
+opacity: 0.6;
 position: absolute;
 }
 .masonry {
@@ -243,13 +255,13 @@ html {
 h3 {
   margin-bottom:1rem;
   font-weight: normal;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-family: Roboto;
 }
 h4 {
   margin-bottom:1rem;
   font-weight: normal;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   font-family: Roboto;
 }
 p {
@@ -278,6 +290,7 @@ a {
 }
 .header {
   max-height: 100px;
+  background-color: #2475bb;
 }
 .header, nav .button{
   display: inline-block;
@@ -285,7 +298,7 @@ a {
 }
 /* hamburger menu */
 .line {
-  border: 1px solid black;
+  border: 1px solid #2475bb;
   width: 25px;
   margin: 5px;
   display: block;
@@ -310,12 +323,14 @@ a {
   left:0%;
   bottom:0;
   right:0;
-  background-color: rgb(60,60,60);
+  background-color: white;
+  border-bottom: 2px solid #2475bb;
   padding:10%;
   z-index: 2;
 }
 .mobile-nav a{
-  color:white;
+  color: #2475bb;
+  border-bottom: 2px solid #2475bb;
   padding:1rem;
   display:block;
   text-decoration: none;
@@ -325,6 +340,9 @@ a {
 }
 .mobile-nav a:hover{
   color: #2475bb;
+  border-bottom: 2px solid #2475bb;
+
+
 }
 /* .mobile-toggleable {
     background-color: #3c3c41;
@@ -431,13 +449,14 @@ input[type="email"]{
 }
 .icon .service {
   font-size: 1rem;
-  font-color: #64BCE4;
 }
-.service h2 {
-    font-size: 1.5rem;
+.service h2{
+  font-size: 1.5rem;
+  letter-spacing: 0.9px;
+  padding-bottom: 2%;
 }
 .condition-icons {
-  max-width: 30%;
+  max-width: 27%;
   height: auto;
   color: rgb(60,60,60);
 }
@@ -453,8 +472,7 @@ input[type="email"]{
 }
 .flex-flipper [class*=grid]:nth-child(2n){
   flex-direction: row;
-  }
-
+}
 .mobile-center {
   text-align: center;
 }
@@ -471,7 +489,6 @@ input[type="email"]{
 
 /* brand colors */
 royal blue: #2475bb;
-white blue: #CEE5F2;
-color: lighttan;
+light blue: #CEE5F2;
 bright blue: #64BCE4;
 grey: #2C363F;
