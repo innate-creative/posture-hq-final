@@ -4,7 +4,7 @@ title: Traditional Chiropractic vs ABC
 feat-image: /images/abc.jpg
 ---
 
-What is the difference between traditional chiropractic and Advanced BioStructural Correction?
+What is the difference between traditional Chiropractic and Advanced BioStructural Correction?
 
 This is a question we get asked in the office every single week. Often, most of our clients have previously been to a chiropractor at some stage, if not people have heard stories from friends or family members who have been to chiropractors. This question usually arises once they realise the experience at Posture HQ is very different to what they previously experienced or thought they would experience.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's talk about posture
+title: Let's Talk About Posture
 feat-image: /images/posture.jpg
 ---
 

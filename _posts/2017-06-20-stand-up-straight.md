@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stand up Straight
+title: Stand Up Straight
 feat-image: /images/tangled.jpg
 ---
 
