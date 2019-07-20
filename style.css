@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* border: 1px solid grey; */
+  border: 1px solid grey;
 }
 /* Gridlex Reset */
 [class*=grid-], [class*=grid_], [class~=grid] {
@@ -83,6 +83,11 @@ footer a:hover{
   display: inline-block;
   padding: 1% 2%;
 }
+.button:hover {
+  border: 2px solid #2475bb;
+  background-color: white;
+  color: white;
+}
 .navbutton {
   border: 2px solid #2475bb;
   color: #2475bb;
@@ -94,10 +99,42 @@ footer a:hover{
   vertical-align: top;
   font-size: 0.9rem;
 }
+.navbutton:hover {
+  border: 2px solid #2475bb;
+  color: white;
+  background-color: #2475bb;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 1.5%;
+  vertical-align: top;
+}
 .navbutton-1 {
   border: 2px solid #CEE5F2;
   color: gb(60,60,60);
   background-color:#CEE5F2;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 2%;
+  vertical-align: top;
+}
+.button-white {
+  border: 2px solid white;
+  color: white;
+  background-color: inherit;
+  font-weight: 400;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 1% 2%;
+  vertical-align: top;
+}
+.button-white:hover {
+  border: 2px solid #2475bb;
+  color: white;
+  background-color: #2475bb;
+  font-weight: 400;
   text-decoration: none;
   letter-spacing: 2px;
   display: inline-block;
@@ -110,16 +147,6 @@ footer a:hover{
 .hamburger-button:hover{
   background-color: white;
 }
-.navbutton:hover {
-  border: 2px solid #2475bb;
-  color: white;
-  background-color: #2475bb;
-  text-decoration: none;
-  letter-spacing: 2px;
-  display: inline-block;
-  padding: 1% 2%;
-  vertical-align: top;
-}
 .button-dark {
   border: 2px solid #2475bb;
   color: white;
@@ -130,10 +157,10 @@ footer a:hover{
   padding: 1% 5%;
   box-shadow: 4px 4px 5px 0.2px rgba(128,125,128,10)
 }
-.button {
+.button-dark:hover {
   border: 2px solid #2475bb;
-  color: white;
-  background-color:#2475bb;
+  color: #2475bb;
+  background-color: white;
   text-decoration: none;
   letter-spacing: 2px;
   display: inline-block;
@@ -148,24 +175,9 @@ footer a:hover{
   display: inline-block;
   /* padding: 1% 5%; */
 }
-
-.button-dark:hover {
-  border: 2px solid #2475bb;
-  color: #2475bb;
-  background-color: white;
-  text-decoration: none;
-  letter-spacing: 2px;
-  display: inline-block;
-  padding: 1% 5%;
-}
 .button-round:hover {
   /* border: 2px solid #CEE5F2; */
   background-color: #CEE5F2;
-  color: white;
-}
-.button:hover {
-  border: 2px solid #2475bb;
-  background-color: #2475bb;
   color: white;
 }
 .ctabanner {
@@ -212,7 +224,7 @@ footer a:hover{
 .overlay{
 width: 100%;
 height: 100%;
-background-color: rgb(60,60,60);
+background-color: black;
 opacity: 0.6;
 position: absolute;
 }
@@ -240,7 +252,7 @@ position: absolute;
 }
 /* Typeography */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 2;
 }
 html {
@@ -249,13 +261,13 @@ html {
  h2 {
   margin-bottom:1rem;
   font-weight: normal;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-family: Roboto;
 }
 h3 {
   margin-bottom:1rem;
   font-weight: normal;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-family: Roboto;
 }
 h4 {
@@ -272,6 +284,9 @@ p {
 a {
   text-decoration: none;
   color: rgb(60, 60, 60);
+}
+footer a:hover{
+  color: #2475bb
 }
 #typed {
   color: #2475bb;
@@ -296,6 +311,18 @@ a {
   display: inline-block;
   vertical-align: top;
 }
+.navbar {
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-attachment: fixed;
+  transition: 2s;
+}
+.main {
+  margin-top: 70px; /* Add a top margin to avoid content overlay */
+}
 /* hamburger menu */
 .line {
   border: 1px solid #2475bb;
@@ -312,7 +339,7 @@ a {
 }
 .hamburger {
   display:inline-block;
-  padding: 0.5rem;
+  padding: 0.2rem;
   z-index: 3;
   position: relative; /* adding this so we can use z-index */
 }
@@ -341,8 +368,6 @@ a {
 .mobile-nav a:hover{
   color: #2475bb;
   border-bottom: 2px solid #2475bb;
-
-
 }
 /* .mobile-toggleable {
     background-color: #3c3c41;
@@ -460,11 +485,18 @@ input[type="email"]{
   height: auto;
   color: rgb(60,60,60);
 }
-.condition-icons:hover {
-  color: red;
+.condition-icons: hover {
+  color: ;
 }
 /* End FAQ  */
 
+.copyright p {
+  font-size: .8rem;
+}
+.copyright a {
+  font-size: .8rem;
+  border-bottom: 1px solid white;
+}
 /* MEDIA Queries */
 @media(max-width: 768px){
 .textarea {
