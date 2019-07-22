@@ -38,7 +38,7 @@ The pain of an unwind feels wrong, it really does. It feels painful and you feel
 
 But you know what? It is not only OK, it is necessary. Especially if you are someone who has been through significant trauma in the past. You know what? How you currently feel is temporary, this too shall pass.
 
-The other side of the unwind
+The other side of the unwind.
 Once you have moved passed this old injury, it allows your body to continue to unlock and unwind moving you to higher levels of health and function that would not have been possible had you not moved through your old injury.
 
 By understanding what to expect while you are going through a big unwind it can make the process a whole lot less distressing. Instead of fearing that you are going backwards and this isn’t helping, you can get excited because you know that you are unlocking a big injury which will allow your body to become even more supple and you will experience higher levels of function and health.

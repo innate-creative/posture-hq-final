@@ -8,7 +8,7 @@ What is the difference between traditional Chiropractic and Advanced BioStructur
 
 This is a question we get asked in the office every single week. Often, most of our clients have previously been to a chiropractor at some stage, if not people have heard stories from friends or family members who have been to chiropractors. This question usually arises once they realise the experience at Posture HQ is very different to what they previously experienced or thought they would experience.
 
-Advanced BioStructural Correction was developed by Dr Jesse Jutkowitz in the late 80’s early 90’s and came to Australia in around the early 2000’s.Traditional chiropractic was developed in 1895.
+Advanced BioStructural Correction was developed by Dr Jesse Jutkowitz in the late 80’s early 90’s and came to Australia in around the early 2000’s. Traditional chiropractic was developed in 1895.
 
 Before we understand the difference between traditional chiropractic and ABC, we must first understand traditional chiropractic, its philosophy and methodology.
 
