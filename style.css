@@ -48,9 +48,10 @@ img {
 .padded     { padding: 5%;}
 .padded-1   { padding: 1rem;}
 .no-padding { padding: 0; }
-.padded-right {padding-right: 2%;}
-.padded-left {padding-left: 2%;}
-.padded-bottom {padding-bottom: 2%}
+.padded-right {padding-right: 5%;}
+.padded-left {padding-left: 5%;}
+.padded-bottom {padding-bottom: 5%}
+.padded-top {padding-top: 5%}
 .xtra-padded {padding: 10%;}
 
 .margin-right{margin-right: 1rem;}
@@ -419,6 +420,13 @@ input{
   top:83px;
   z-index: 0;
   overflow-x:auto;
+}
+.sidey {
+  padding: 5%;
+  border: 2px solid #2475bb;
+  margin-bottom: 0.5rem;
+  color: black;
+  background-color: lightgrey;
 }
 /* Name */
 input[type="name"]{
