@@ -1,0 +1,4 @@
+url: www.posturehq.com.au
+
+plugins:
+  - jekyll-sitemap
