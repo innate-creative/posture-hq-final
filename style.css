@@ -245,7 +245,11 @@ img {
   padding: 1% 5%;
   /* box-shadow: 4px 4px 5px 0.2px rgba(128,125,128,10) */
 }
-
+.typeform-share:hover {
+  border: 2px solid #2475bb;
+  color: #2475bb;
+  background-color: white;
+}
 .button-dark:hover {
   border: 2px solid #2475bb;
   color: #2475bb;
