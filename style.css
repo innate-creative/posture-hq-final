@@ -284,9 +284,23 @@ img {
   background-position: center;
   background-attachment: fixed;
 }
+.ctabanner2 {
+  background-image: url('/images/wall.jpg');
+  min-height: 20vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
 
 .palmbanner {
   background-image: url('/images/palm3.jpg');
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.palmbanner2 {
+  background-image: url('/images/palm4.jpg');
   min-height: 100%;
   background-size: cover;
   background-position: center;
@@ -350,7 +364,7 @@ img {
   padding:5%;
 } */
 .fab {
-  font-size: 2rem;
+  font-size: 2.3rem;
 }
 
 .fab:hover {
@@ -496,14 +510,14 @@ figcaption {
 
 .mobile-nav {
   display: none;
-  position: absolute;
+  position: sticky;
   top: 0;
   left: 0;
   bottom:0;
   right: 0;
   background-color: white;
   border-bottom: 2px solid #2475bb;
-  padding: 6rem 10%;
+  padding: 6rem 10% 19rem 10%;
   z-index: 3;
 }
 
@@ -517,7 +531,9 @@ figcaption {
 }
 
 .mobile-nav a:hover {
-  color: #2475bb;
+  color: white;
+  background-color: #2475bb;
+  transition: 0.7s;
   /* border-bottom: 2px solid #2475bb; */
 }
 
@@ -574,7 +590,7 @@ input {
 /* Icon */
 .accordion dt a::after {
   position: absolute;
-  top: 0.4rem;
+  top: 0.6rem;
   right: 0.4rem;
   display: block;
   width: 1rem;
@@ -585,13 +601,14 @@ input {
   -o-transition: all .35s;
   transition: all .35s;
 }
-
-.accordion dt a::after {
-  content: "+";
-}
-
-.open::after {
+.open::before {
   transform: rotateZ(45deg);
+}
+.accordion dt a::before {
+  content: "+";
+  font-size: 2rem;
+  margin-right: 2%;
+  top:0.5rem;
 }
 
 .icon .service {

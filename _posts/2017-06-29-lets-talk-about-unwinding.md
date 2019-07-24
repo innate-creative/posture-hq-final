@@ -4,7 +4,9 @@ title: Let's Talk About Posture
 feat-image: /images/posture.jpg
 ---
 
-At Posture HQ, the term ‘Unwinding’ is one you will hear frequently but what is it all about and what does it actually mean? Most importantly – how does it feel to go through an unwind? Well that, is the purpose of this article.
+At Posture HQ, the term ‘Unwinding’ is one you will hear frequently but what is it all about and what does it actually mean?
+
+Most importantly – how does it feel to go through an unwind? Well that, is the purpose of this article.
 
 With the Advanced BioStructural Correction (ABC™) process, in order for your body to heal and get healthy again, you MUST go back and unlock or release old injuries that your body is currently compensating for. Otherwise, your body will remain stiff and rigid and be under considerable mechanical pressure, which is an accident waiting to happen.
 
