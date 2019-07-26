@@ -2,7 +2,7 @@ $ (document).ready(function(){
 //  this is the hamburger
 $(".hamburger").click(function(){
   $(".hamburger").toggleClass('active');
-  $(".mobile-nav").fadeToggle();
+  $(".mobile-nav").slideToggle();
    // $(".mobile-toggleable").toggleClass("offtheright");
 });
 
@@ -19,6 +19,17 @@ var allPanels = $('.accordion > dd').hide();
 
     return false;
 	});
+  // Transition scroll bar
+
+$(window).scroll(function() {
+    var scroll = $(window).scrollTop();
+// 10 is the value of pixels in order to active this jq
+    if (scroll <= 1) {
+        $("header").removeClass("whitebg");
+    } else {
+        $("header").addClass("whitebg");
+    }
+});
 // ready for the next thing
 
 });
