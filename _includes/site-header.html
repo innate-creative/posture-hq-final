@@ -1,6 +1,6 @@
-<header class='grid-middle navbar'>
+<header class='grid-middle navbar {% if page.url != "/" %}others{% endif %}'>
     <div class="col-4_sm-6 padded-left">
-      <a href="/"> <img src="/images/posture-hq-logo.png" class='logo padded-1' alt="">
+      <a href="/">  <img src="/images/logowhite.png" class='logo padded-1 nonscroll ' alt=""><img src="/images/posture-hq-logo.png" alt="" class='logo padded-1 onscroll'>
       </a>
     </div>
 
@@ -22,5 +22,7 @@
   <a href="/about-us"> Meet the Team</a>
   <a href="/conditions-home"> Conditions</a>
   <a href="/faq"> FAQ's</a>
+  <a href="/contact"> Contact Us </a>
   <a href="/blog"> Blog</a>
+
 </nav>
