@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's Talk About Posture
-feat-image: /images/posture.jpg
+feat-image_url: /images/posture.jpg
 ---
 
 At Posture HQ, the term ‘Unwinding’ is one you will hear frequently but what is it all about and what does it actually mean?

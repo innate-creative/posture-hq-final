@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The benefits of good posture | Noosa Chiropractor
-feat-image: /images/posture-correction.jpg
+feat-image_url: /images/posture-correction.jpg
 ---
 
 Has anyone ever told you, “Stand up straight!” or scolded you for slouching at a family dinner?

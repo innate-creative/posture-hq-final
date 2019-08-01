@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stand Up Straight
-feat-image: /images/tangled.jpg
+feat-image_url: /images/tangled.jpg
 ---
 
 “Stand up straight!”, “Pull your shoulders back”, “Stop slouching, it looks horrible.”

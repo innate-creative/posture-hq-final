@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Importance of Protection Care
-feat-image: /images/protection-yoga.jpeg
+feat-image_url: /images/protection-yoga.jpeg
 ---
 
 Why do I need regular treatments once I am ‘fixed’?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Traditional Chiropractic vs ABC
-feat-image: /images/abc.jpg
+feat-image_url: /images/abc.jpg
 ---
 
 What is the difference between traditional Chiropractic and Advanced BioStructural Correction?

@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* border: 1px solid grey; */
+  border: 1px solid grey;
 }
 
 /* Gridlex Reset */
@@ -127,7 +127,9 @@ img {
 .dark-bg a:hover {
   color: #2475bb;
 }
-
+.dark-bg p {
+  color: white;
+}
 .feat-bg {
   background-color: #2475bb;
 }
@@ -278,6 +280,7 @@ img {
   padding: 1% 5%;
   transition: 0.7s;
   border-radius: 5px;
+  vertical-align: bottom;
   /* box-shadow: 4px 4px 5px 0.2px rgba(128,125,128,10) */
 }
 .typeform-share:hover {
@@ -473,7 +476,7 @@ h2 {
   margin-bottom: 1rem;
   font-weight: normal;
   font-size: 2rem;
-  font-family: Lato;
+  font-family: Roboto;
   font-weight: 700;
 }
 
@@ -496,6 +499,7 @@ p {
   line-height: 1.5;
   margin-bottom: 1rem;
   font-family: 'Raleway';
+  color: rgb(60, 60, 65);
 }
 
 a {
@@ -511,9 +515,6 @@ footer a:hover {
   color: #2475bb;
 }
 
-.mobile-show {
-  display: none;
-}
 
 .banner {
   background-image: #;
@@ -658,6 +659,10 @@ input {
   color:rgb(60,60,60);
   background-color: rgb(60,60,60);
 }
+.blog-post {
+  vertical-align: bottom;
+}
+
 .conditions {
   border: 1px solid lightgrey;
   padding: 1rem;
@@ -666,7 +671,12 @@ input {
 .conditions p {
   color: grey;
 }
-
+.desktop-show {
+  display: block;
+}
+.desktop-hide {
+  display: none;
+}
 /* FAQ slides */
 .accordion dt a {
   padding: 0.25rem;
@@ -731,6 +741,7 @@ input {
 /* End FAQ  */
 .copyright p {
   font-size: .8rem;
+  color: white;
 }
 
 .copyright a {
@@ -739,6 +750,25 @@ input {
 }
 
 /* MEDIA Queries */
+@media (max-width: 1024px) {
+  .tablet-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .tablet-padded {
+    padding-top: 2rem;
+  }
+  .tablet-right {
+    padding-right: 5%;
+  }
+.tablet-hide {
+  display:none;
+}
+.tablet-no-left {
+  padding-left: 0;
+}
+}
 @media(max-width: 768px) {
   .textarea {
     max-width: 300px;
@@ -762,6 +792,12 @@ input {
     background-position: center;
     background-repeat: no-repeat;
   }
+  .bg-image2 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+  }
 
   .mobile-center {
     text-align: center;
@@ -769,6 +805,10 @@ input {
 
   .mobile-hide {
   display: none;
+  }
+  .mobile-show {
+    display: block;
+    margin: auto;
   }
 
   .navbutton {
@@ -780,7 +820,13 @@ input {
   }
 
   .mobile-padded {
-    padding-bottom: 1rem;
+    padding: 7%;
+  }
+  .mobile-padded-top {
+    padding-top: 1.5rem;
+  }
+  .mobile-padded-bottom {
+    padding-bottom: 1.5rem;
   }
 }
 

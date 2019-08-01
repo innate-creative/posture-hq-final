@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intermittent Fasting
-feat-image: /images/intermittent-fasting.jpeg
+feat-image_url: /images/intermittent-fasting.jpeg
 ---
 
 What’s All The Fuss About Intermittent Fasting?
