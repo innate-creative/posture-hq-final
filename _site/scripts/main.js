@@ -3,7 +3,6 @@ $ (document).ready(function(){
 $(".hamburger").click(function(){
   $(".hamburger").toggleClass('active');
   $(".mobile-nav").slideToggle();
-  $(".navbar").toggleClass('activeburger');
    // $(".mobile-toggleable").toggleClass("offtheright");
 });
 
