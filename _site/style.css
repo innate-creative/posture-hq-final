@@ -149,7 +149,15 @@ img {
   min-height: 50vh;
   width: 100%;
 }
-
+.video {
+  position: relative;
+  width: 100%;
+  height:100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  /* z-index: 999999; */
+}
 .button {
   border: 2px solid #2475bb;
   border-radius: 5px;
