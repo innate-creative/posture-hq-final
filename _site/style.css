@@ -88,6 +88,12 @@ img {
 .padded-left {
   padding-left: 5%;
 }
+.padded-right-xtra {
+  padding-right: 25%;
+}
+.padded-left-xtra {
+  padding-left: 25%;
+}
 
 .padded-bottom {
   padding-bottom: 5%
@@ -119,7 +125,7 @@ img {
 }
 
 .dark-bg {
-  background-color: rgb(60, 60, 60);
+  background-color: rgb(60, 60, 65);
   color: white;
 }
 
@@ -181,7 +187,6 @@ img {
   /* background-color: rgba(0,0,0,0); */
   text-decoration: none;
   letter-spacing: 1.5px;
-  font-family: montserrat;
   display: inline-block;
   padding: 1% 2%;
   vertical-align: top;
@@ -272,6 +277,18 @@ img {
 .hamburger-button {
   background-color: #2475bb;
 }
+.underline {
+height: 3px;
+  width:60px;
+  background-color: #2475bb;
+  position:relative;
+  display: block;
+  margin: 20px auto 20px;
+}
+
+.blue {
+  color: #2475bb;
+}
 
 .hamburger-button:hover {
   background-color: white;
@@ -316,9 +333,9 @@ img {
 }
 
 .button-round:hover {
-  /* border: 2px solid #CEE5F2; */
-  background-color: #CEE5F2;
-  color: white;
+  /* border: 2px solid #CEE5F2;
+  background-color: #CEE5F2; */
+  color: #2475bb;
 }
 #ctabanner.lazy{
   background-image: none;
@@ -433,6 +450,7 @@ img {
 /* Others referrs to other pages that are not index */
 .whitebg, .others {
   background-color: white;
+  box-shadow: 0 5px 5px 5px rgba(0,0,0,0.1), 0 5px 5px -5px rgba(0,0,0,0.1);
 }
 .whitebg *,.others *{
   color: #2475bb;
@@ -467,6 +485,18 @@ img {
   align-items: center;
   display: inline-block
 }
+.minibg {
+    border: 2px solid #fff;
+    background-size: cover;
+    background-position: center;
+    min-height: 40vh;
+}
+.masonry img{
+  max-width: 100%;
+height: auto;
+display: block;
+padding-bottom: 0.5rem;
+}
 
 .masonry .item {
   background-color: #eee;
@@ -488,8 +518,9 @@ img {
 
 /* Typeography */
 body {
-  font-family: 'Raleway', sans-serif;
-  letter-spacing: 2;
+  font-family: 'open sans', sans-serif;
+  letter-spacing: 1.5;
+  color: rgb(60,60,60);
 }
 
 html {
@@ -498,9 +529,8 @@ html {
 
 h2 {
   margin-bottom: 1rem;
-  font-weight: normal;
+  font-weight: 600;
   font-size: 2rem;
-  font-family: Roboto;
   font-weight: 700;
 }
 
@@ -508,7 +538,7 @@ h3 {
   margin-bottom: 1rem;
   font-weight: normal;
   font-size: 1.4rem;
-  font-family: Roboto;
+
 }
 
 h4 {
@@ -516,14 +546,15 @@ h4 {
   margin-top: 0.8rem;
   font-weight: normal;
   font-size: 1.1rem;
-  font-family: Roboto;
+  /* font-family: Roboto; */
 }
 
 p {
   line-height: 1.5;
+  font-size: 1rem;
   margin-bottom: 1rem;
-  font-family: 'Raleway';
-  color: rgb(60, 60, 65);
+  font-weight: 300;
+
 }
 
 a {
@@ -575,7 +606,7 @@ footer a:hover {
 }
 
 .main {
-  margin-top: 80px;
+  margin-top: 70px;
   /* Add a top margin to avoid content overlay */
 }
 
@@ -698,7 +729,9 @@ input {
   border: 1px solid lightgrey;
   padding: 1rem;
 }
-
+.about {
+  background-color: rgba(250,250,250,1);
+}
 .conditions p {
   color: grey;
 }
@@ -766,7 +799,7 @@ input {
 }
 
 .condition-icons: hover {
-  color: ;
+  color: red ;
 }
 
 /* End FAQ  */
@@ -838,6 +871,15 @@ input {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+  }
+  .gif {
+    min-height: 100vh;
+    background-image: url(/images/posture-hq-chiropractic.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 0;
   }
 
   .mobile-center {
