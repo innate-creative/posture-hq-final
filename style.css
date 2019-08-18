@@ -450,7 +450,7 @@ height: 3px;
 /* Others referrs to other pages that are not index */
 .whitebg, .others {
   background-color: white;
-  box-shadow: 0 5px 5px 5px rgba(0,0,0,0.1), 0 5px 5px -5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 2px 2px rgba(0,0,0,0.05), 0 2px 2px -2px rgba(0,0,0,0.05);
 }
 .whitebg *,.others *{
   color: #2475bb;
@@ -852,6 +852,11 @@ input {
   background-color: #f1f1fA;
 }
   .bg-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .bg-image-1 {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
