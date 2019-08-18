@@ -435,7 +435,7 @@ height: 3px;
 
 .gif {
   min-height: 100vh;
-  background-image: url(/images/posturehq.gif);
+  background-image: url(/images/posturehq.gif);url(/images/examination.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
