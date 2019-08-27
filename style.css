@@ -756,13 +756,13 @@ input {
   background-color: #f1f1fA;
 }
 .sidey-team {
-  background-image: url(/images/wall.jpg);
+  background-color: rgba(245, 245, 245, 0.9);
   padding: 5%;
   text-align: center;
   /* border: 2px solid #2475bb; */
   margin-bottom: 2rem;
   color:rgb(60,60,60);
-  background-color: rgb(60,60,60);
+
 }
 .blog-post {
   vertical-align: bottom;
