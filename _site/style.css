@@ -186,7 +186,7 @@ img {
 }
 
 .navbutton {
-  border: 2px solid #FFF;
+  border: 1px solid #FFF;
   color: #fff;
   border-radius: 5px;
   /* background-color: rgba(0,0,0,0); */
@@ -212,7 +212,7 @@ img {
   white-space: nowrap;
 }
 .navbutton-1:hover {
-  border: 2px solid #2475bb;
+  border: 1px solid #2475bb;
   color: #2475bb;
   background-color: white;
   border-radius: 5px;
@@ -227,7 +227,7 @@ img {
 }
 
 .navbutton:hover {
-  border: 2px solid #2475bb;
+  border: 1px solid #2475bb;
   color: white;
     border-radius: 5px;
   letter-spacing: 1.1px;
