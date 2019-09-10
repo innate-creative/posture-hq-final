@@ -126,7 +126,7 @@ img {
 
 /* backgrounds */
 .light-bg {
-  background-color: lightgrey;
+  background-color: rgb(70,70,70);
 }
 
 .dark-bg {
