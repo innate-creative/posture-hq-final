@@ -881,6 +881,9 @@ background-image: url(/images/sidebar.jpg);
 .tablet-no-left {
   padding-left: 0;
 }
+.ctabannerabout, .ctabannerchiro, .ctabannerchiro, .ctabanner, .ctabannercontact, .ctabannerbook {
+  background-attachment: scroll;
+}
 }
 @media(max-width: 768px) {
   .textarea {
@@ -924,7 +927,7 @@ background-image: url(/images/sidebar.jpg);
     min-height: 40vh;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
   }
   .gif {
     min-height: 100vh;
