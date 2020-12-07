@@ -4,20 +4,17 @@ title: Intermittent Fasting
 feat-image_url: /images/intermittent-fasting.jpeg
 ---
 
-What’s All The Fuss About Intermittent Fasting?
-It’s a buzz topic in all the media right now – so what exactly is intermittent fasting?
+What’s All The Fuss About Intermittent Fasting? It’s a buzz topic in all the media right now – so what exactly is intermittent fasting?
 
-Well as the name suggests, it is about spending prolonged periods of time abstaining from food. For many of us in the West, even a day without food sounds crazy.
+Well, as the name suggests, it is about spending prolonged periods of time abstaining from food. For many of us in the West, even a day without food sounds crazy.
 
 We are constantly bombarded with what and where to eat and have grown up believing we need 3 square meals per day plus snacks, just to stay healthy. We even use eating as a tool to reduce boredom and stress.
 
-However, fasting is not new. It has been used throughout history for many religious practices most notably Ramadan, where Muslims around the world abstain from eating from dawn to dusk for an entire month. Fasting is an exercise in self-restraint. It’s seen as a way to physically and spiritually detoxify by removing impulses such as morning coffee, smoking or midday snacking. Our Palaeolithic ancestors would have had regular periods of fasting when food sources were limited.
+However, fasting is not new. It has been used throughout history for many religious practices, most notably Ramadan where Muslims around the world abstain from eating from dawn to dusk for an entire month. Fasting is an exercise in self-restraint. It’s seen as a way to physically and spiritually detoxify by removing impulses such as morning coffee, smoking or midday snacking. Our Palaeolithic ancestors would have had regular periods of fasting when food sources were limited.
 
 So why fast? Our human body has evolved over thousands of years to not only survive for periods of time without food, but also to in fact THRIVE. The latest research from around the globe has established some amazing health benefits of periods of fasting. Let’s get into them now…
 
-7 Major Benefits to Intermittent Fasting:
-Weight loss & Fat Loss – Intermittent fasting helps the body lose weight and burn fat in many ways, we are going to outlines 3 of those ways.
-Firstly, by reducing the total calories you consume. Even when you return to eating after a fast, most people find that they tend to eat smaller portions than they normally would.
+7 Major Benefits to Intermittent Fasting: Weight loss & Fat Loss – Intermittent fasting helps the body lose weight and burn fat in many ways, we are going to outlines 3 of those ways. Firstly, by reducing the total calories you consume. Even when you return to eating after a fast, most people find that they tend to eat smaller portions than they normally would.
 
 Secondly, intermittent fasting also affects our insulin levels. Insulin is the hormone which is released by the pancreas in response to increase blood sugar levels. Insulin’s role is to store blood sugar or glucose in the form of glycogen in the muscles and the liver for later use.
 
@@ -25,7 +22,7 @@ When our bodies are in the fed state, there is constantly glucose flowing throug
 
 Enter weight gain.
 
-During intermittent fasting we do not have high levels of blood glucose circulating around our bodies because there is no glucose coming in. As a result, there is no need for the pancreas to secret insulin. When insulin levels are low, the body can then mobilise fat cells to be used as energy.
+During intermittent fasting we do not have high levels of blood glucose circulating around our bodies because there is no glucose coming in. As a result, there is no need for the pancreas to secrete insulin. When insulin levels are low, the body can then mobilise fat cells to be used as energy.
 
 A simple way to think about insulin is this, when it is circulating in our system in high quantities, after for example a high carbohydrate meal, we are in fat STORING mode. When it is at a low level, during a fasted state, we are in fat BURNING mode.
 
@@ -33,10 +30,9 @@ Thirdly, fasting helps us to regulate hormones and lose weight. When our bodies 
 
 Side note: Athletes often worry that they will lose muscle mass while they are not eating regularly. But this is not necessarily the case, due to fasting stimulating increased levels of Human Growth Hormone, athletes may even find they put on more lean muscle mass.
 
-Brain Function – From an evolutionary perspective our brains needed to be sharp as a tack when we fasted, so that we could remember where to find good supplies of food or to have the mental acuity to hunt prey. Many people who have undergone a fasting protocol report that they begin to feel sharper and/or clearer.
-Recent studies in rats have shown that when in a fasted state, the rats’ brains will actually grow more neural cells. Fasting has also shown to increase Brain Derived Neurotropic Factor- an important gene in neural growth and protection. These findings are amazing, especially in the world ofepigenetics and neuroplasticity. Neuroplasticity is the brains ability to change in response to certain environmental stimuli. Fasting can actually help the brain adapt to new stimuli.
+Brain Function – From an evolutionary perspective our brains needed to be sharp as a tack when we fasted, so that we could remember where to find good supplies of food or to have the mental acuity to hunt prey. Many people who have undergone a fasting protocol report that they begin to feel sharper and/or clearer. Recent studies in rats have shown that when in a fasted state, the rats’ brains will actually grow more neural cells. Fasting has also shown to increase Brain Derived Neurotrophic Factor- an important gene in neural growth and protection. These findings are amazing, especially in the world of epigenetics and neuroplasticity. Neuroplasticity is the brain's ability to change in response to certain environmental stimuli. Fasting can actually help the brain adapt to new stimuli.
 
-Secondly, the brain is a very sensitive structure. It is particularly prone to something called oxidative stress. In our bodies we have these little suckers called free radicles, they cruise around the body and cause damage to the various tissues including brain tissue that they bump into. This is what is meant by ‘oxidative stress’. Fasting has shown to increase the bodies resistance to oxidative stress. Essentially, this means less damage to brain tissue (among other tissues) due to free radicals.
+Secondly, the brain is a very sensitive structure. It is particularly prone to something called oxidative stress. In our bodies we have these little suckers called free radicals, they cruise around the body and cause damage to the various tissues including brain tissue that they bump into. This is what is meant by ‘oxidative stress’. Fasting has shown to increase the bodies resistance to oxidative stress. Essentially, this means less damage to brain tissue (among other tissues) due to free radicals.
 
 This has huge implications in terms of ageing and many chronic diseases such as Alzheimer’s, which we will touch on shortly.
 
@@ -48,22 +44,19 @@ Fasting has also shown to help lower the bodies resistance to insulin. This is u
 
 If you or a family member is Type 2 diabetic or borderline Type 2 diabetic, fasting is definitely something for you to trial.
 
-Cellular Repair - When cell’s die or are damaged they need to be cleaned up or removed, otherwise the body begins to turn into a junk yard. This becomes the perfect condition for diseases such as cancer and Alzheimer’s. Fasting has shown to promote a process known as autophagy. Autophagy is where the body’s cellular ‘garbage men’ go into action and start to clean up all the cellular debris. This has shown to greatly reduce the growth of cancers and be protective for diseases such as Alzheimer’s and Parkinson’s disease.
+Cellular Repair - When cells die or are damaged they need to be cleaned up or removed, otherwise the body begins to turn into a junkyard. This becomes the perfect condition for diseases such as cancer and Alzheimer’s. Fasting has shown to promote a process known as autophagy. Autophagy is where the body’s cellular ‘garbage men’ go into action and start to clean up all the cellular debris. This has shown to greatly reduce the growth of cancers and be protective for diseases such as Alzheimer’s and Parkinson’s disease.
 
-Reduced Risk of Parkinson’s Disease and Alzheimer’s disease, heart disease & some cancers: Throughfactors previously mentioned, intermittent fasting has shown to reduce the risk of neuro-degenerative disorders, Type 2 diabetes, heart conditions and even some cancers. These are pretty amazing findings.
+Reduced Risk of Parkinson’s Disease and Alzheimer’s disease, heart disease & some cancers: Through factors previously mentioned, intermittent fasting has shown to reduce the risk of neurodegenerative disorders, Type 2 diabetes, heart conditions and even some cancers. These are pretty amazing findings.
 
-Slows the ageing process – Studies in rats have shown that intermittent fasting actually increased the rat’s lifespan. This is a very interesting finding in terms of longevity and ties in with all the other biological benefits we have mentioned previously.
-Various Methods of Fasting:
-All fasting methods incorporate time spent in the fasted state (not too little calorie consumption) and a time feasting (where by you are able to eat). The basic premise is during the feasting state where you are able to consume as much food as you desire or at least until you feel full. A word of warning – feasting doesn’t mean you can do a Tim Tam marathon. It is critical to your health that while you are in the fed state you choose nutrient dense vegetables, high quality lean meats and lots of good quality fats such as avocado, coconut oil, nuts and seeds. While feasting steer clear of processed foods and high density carbohydrates such as breads and pastas.
+Slows the ageing process – Studies in rats have shown that intermittent fasting actually increased the rat’s lifespan. This is a very interesting finding in terms of longevity and ties in with all the other biological benefits we have mentioned previously. Various Methods of Fasting: All fasting methods incorporate time spent in the fasted state (not too little calorie consumption) and a time feasting (where by you are able to eat). The basic premise is during the feasting state where you are able to consume as much food as you desire or at least until you feel full. A word of warning – feasting doesn’t mean you can do a Tim Tam marathon. It is critical to your health that while you are in the fed state you choose nutrient dense vegetables, high quality lean meats and lots of good quality fats such as avocado, coconut oil, nuts and seeds. While feasting steer clear of processed foods and high density carbohydrates such as breads and pastas.
 
 All of the methods we are about to mention have shown the proven benefits we discussed previously. It is just a matter of finding one that you personally can incorporate into your lifestyle in a consistent manner.
 
 ADF (Alternate Day Fasting): this protocol is as it sounds; you spend one-day fasting and the following day feasting. One of the downsides to this is the planning that is required. Social interactions can be difficult to commit as well.
 
-5:2 Diet – This is a diet popularised by Dr Michael Mosley. There is a great documentary on this particular topic presented by Mosley and his team called Eat, Fast & Live longer.
-In his approach to intermittent fasting, Mosley recommends having two fast days per week. On these fast days, males can consume 600 calories while women can consume 500. The remaining 5 days you are able to eat as normal.
+5:2 Diet – This is a diet popularised by Dr Michael Mosley. There is a great documentary on this particular topic presented by Mosley and his team called Eat, Fast & Live longer. In his approach to intermittent fasting, Mosley recommends having two fast days per week. On these fast days, males can consume 600 calories while women can consume 500. The remaining 5 days you are able to eat as normal.
 
-5 Day Fast – Again as it sounds. This is a more extreme version of fasting where you consume nothing but liquids for 5 days straight. Some people even do juice fasts for up to 21 days! Enter this with caution if you have never fasted before, you could potentially send your body into a spin.
+5 Day Fast – Again as it sounds. This is a more extreme version of fasting where you consume nothing but liquids for 5 days straight. Some people even do juice fasts for up to 21 days\! Enter this with caution if you have never fasted before, you could potentially send your body into a spin.
 
 18:6 Daily Fasting – In this approach your last meal is consumed at dinner time (around 7-8pm), you would then go to sleep and wake up as normal. Instead of eating breakfast right away however, you would wait until around 1- 2pm in the afternoon before the real ‘break-fast’. This gives you around 18 hours of fasting per day. It then gives you a 6-hour window where you are able to feast as much as you like.
 
